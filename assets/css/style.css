@@ -1001,9 +1001,7 @@ section {
   opacity: 0;
 }
 
-.portfolio .portfolio-wrap img {
-  transition: all ease-in-out 0.3s;
-}
+
 
 .portfolio .portfolio-wrap .portfolio-info {
   opacity: 0;
